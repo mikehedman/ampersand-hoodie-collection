@@ -2,6 +2,10 @@
 
 Bundles in ampersand-hoodie-mixin to provide an ampersand-collection that uses Hoodie for storage.
 
+---
+Note!  This is a very early working prototype.  There is not yet a unit test suite.
+---
+
 ## install
 ```
 npm install ampersand-hoodie-collection
