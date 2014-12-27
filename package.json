@@ -1,7 +1,7 @@
 {
   "name": "ampersand-hoodie-collection",
   "description": "Subclass of ampersand-collection for storing to Hoodie.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": {
     "name": "Mike Hedman",
     "email": "mikehedman@gmail.com"
