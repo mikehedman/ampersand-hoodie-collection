@@ -1,7 +1,7 @@
 {
   "name": "ampersand-hoodie-collection",
   "description": "Subclass of ampersand-collection for storing to Hoodie.",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "author": {
     "name": "Mike Hedman",
     "email": "mikehedman@gmail.com"
@@ -10,7 +10,7 @@
     "url": "https://github.com/mikehedman/ampersand-hoodie-collection/issues"
   },
   "dependencies": {
-    "ampersand-collection": ">=1.3.17",
+    "ampersand-rest-collection": "^2.0.0",
     "ampersand-hoodie-mixin": ">=0.0.0"
   },
   "devDependencies": {
