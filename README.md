@@ -9,6 +9,7 @@ npm install ampersand-hoodie-collection
 
 ## example
 
+```javascript
 var AmpersandHoodieCollection = require('./ampersand-hoodie-collection');
 var Person = require('./person');
 
@@ -16,6 +17,7 @@ module.exports = AmpersandHoodieCollection.extend({
     model: Person,
     HOODIE_TYPE: 'person'
 });
+```
 
 ## usage
 
